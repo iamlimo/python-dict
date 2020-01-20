@@ -1,0 +1,1 @@
+A simple dictionary built with Python!
